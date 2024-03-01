@@ -1,0 +1,7 @@
+﻿  Pract9_Pankrateva.cpp
+C:\Users\Huawei\Desktop\Pract9_Pankrateva\Pract9_Pankrateva\Pract9_Pankrateva.cpp(8,26): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\Users\Huawei\Desktop\Pract9_Pankrateva\Pract9_Pankrateva\Pract9_Pankrateva.cpp(8,26): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+C:\Users\Huawei\Desktop\Pract9_Pankrateva\Pract9_Pankrateva\Pract9_Pankrateva.cpp(12,12): warning C4244: return: преобразование "__int64" в "DWORD", возможна потеря данных
+C:\Users\Huawei\Desktop\Pract9_Pankrateva\Pract9_Pankrateva\Pract9_Pankrateva.cpp(21,51): warning C4312: приведение типов: преобразование из "int" в "void *" большего размера
+C:\Users\Huawei\Desktop\Pract9_Pankrateva\Pract9_Pankrateva\Pract9_Pankrateva.cpp(23,51): warning C4312: приведение типов: преобразование из "int" в "void *" большего размера
+  Pract9_Pankrateva.vcxproj -> C:\Users\Huawei\Desktop\Pract9_Pankrateva\x64\Debug\Pract9_Pankrateva.exe
